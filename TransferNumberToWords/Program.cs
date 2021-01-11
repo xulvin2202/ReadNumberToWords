@@ -15,20 +15,21 @@ namespace TransferNumberToWords
 
             int i, j, k, n, lenght, found, ddv, rd;
             lenght = number.Length;
-            number += "ss";
+
             read = "";
             found = 0;
             ddv = 0;
             rd = 0;
             i = 0;
-            number = number.Replace(" ","");
+            number = number.Replace(" ", "");
 
-            if (number.Length < 1 )
+            if (string.IsNullOrEmpty(number) || number.Length < 3)
             {
-                read = $"Khong co gia tri duoc nhap vao ";
+                read = $"Gia tri nhap vao khong hop le";
             }
             else
             {
+                number += "ss";
                 while (i < lenght)
                 {
                     ///so chu so o hang dang duyet

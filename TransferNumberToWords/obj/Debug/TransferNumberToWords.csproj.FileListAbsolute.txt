@@ -5,3 +5,10 @@ C:\Users\vinh.nx\source\repos\TransferNumberToWords\TransferNumberToWords\obj\De
 C:\Users\vinh.nx\source\repos\TransferNumberToWords\TransferNumberToWords\obj\Debug\TransferNumberToWords.csproj.CoreCompileInputs.cache
 C:\Users\vinh.nx\source\repos\TransferNumberToWords\TransferNumberToWords\obj\Debug\TransferNumberToWords.exe
 C:\Users\vinh.nx\source\repos\TransferNumberToWords\TransferNumberToWords\obj\Debug\TransferNumberToWords.pdb
+D:\ReadNumberToWords\ReadNumberToWords\TransferNumberToWords\bin\Debug\TransferNumberToWords.exe.config
+D:\ReadNumberToWords\ReadNumberToWords\TransferNumberToWords\bin\Debug\TransferNumberToWords.exe
+D:\ReadNumberToWords\ReadNumberToWords\TransferNumberToWords\bin\Debug\TransferNumberToWords.pdb
+D:\ReadNumberToWords\ReadNumberToWords\TransferNumberToWords\obj\Debug\TransferNumberToWords.csprojAssemblyReference.cache
+D:\ReadNumberToWords\ReadNumberToWords\TransferNumberToWords\obj\Debug\TransferNumberToWords.csproj.CoreCompileInputs.cache
+D:\ReadNumberToWords\ReadNumberToWords\TransferNumberToWords\obj\Debug\TransferNumberToWords.exe
+D:\ReadNumberToWords\ReadNumberToWords\TransferNumberToWords\obj\Debug\TransferNumberToWords.pdb
