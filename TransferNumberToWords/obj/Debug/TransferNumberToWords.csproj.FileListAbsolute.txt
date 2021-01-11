@@ -1,0 +1,7 @@
+C:\Users\vinh.nx\source\repos\TransferNumberToWords\TransferNumberToWords\bin\Debug\TransferNumberToWords.exe.config
+C:\Users\vinh.nx\source\repos\TransferNumberToWords\TransferNumberToWords\bin\Debug\TransferNumberToWords.exe
+C:\Users\vinh.nx\source\repos\TransferNumberToWords\TransferNumberToWords\bin\Debug\TransferNumberToWords.pdb
+C:\Users\vinh.nx\source\repos\TransferNumberToWords\TransferNumberToWords\obj\Debug\TransferNumberToWords.csprojAssemblyReference.cache
+C:\Users\vinh.nx\source\repos\TransferNumberToWords\TransferNumberToWords\obj\Debug\TransferNumberToWords.csproj.CoreCompileInputs.cache
+C:\Users\vinh.nx\source\repos\TransferNumberToWords\TransferNumberToWords\obj\Debug\TransferNumberToWords.exe
+C:\Users\vinh.nx\source\repos\TransferNumberToWords\TransferNumberToWords\obj\Debug\TransferNumberToWords.pdb
